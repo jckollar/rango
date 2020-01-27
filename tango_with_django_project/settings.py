@@ -33,7 +33,7 @@ SECRET_KEY = 'ts92nr_l476zq!(a%p$grkf))sh7jx!ew*pxc2jvb9w7v%0t*b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['http://jkollar.pythonanywhere.com']
 
 # Application definition
 
