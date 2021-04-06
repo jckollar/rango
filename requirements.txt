@@ -7,7 +7,7 @@ Django==3.0.2
 django-bootstrap-toolkit==2.15.0
 django-countries==5.5
 django-crispy-forms==1.8.1
-django-registration==3.0.1
+django-registration==3.1.2
 django-registration-redux==2.7
 idna==2.8
 jason==0.1.7
